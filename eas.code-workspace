@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "eas-webapp"
+		},
+		{
+			"path": "eas-server"
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"Unmount",
+			"okta",
+			"signin"
+		]
+	}
+}
